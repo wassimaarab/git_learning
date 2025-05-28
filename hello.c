@@ -1,6 +1,6 @@
 #include "stdio.h"
 
 int main(){
-    printf("Wesh a rajoul \n");
+    printf("Wesh\n");
     return 0 ;
 }

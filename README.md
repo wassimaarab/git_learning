@@ -4,3 +4,4 @@ git log --graph : display graph for changes
 
 git commit --amend : replace the previous  commit with the current one my project
 version 2 
+version 3 
